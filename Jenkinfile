@@ -1,6 +1,6 @@
 def vm2=[:]
 vm2.name = 'vm2sv'
-vm2.host = '192.168.86.101'
+vm2.host = '192.168.56.101'
 vm2.user = 'theerapat'
 vm2.port = 22
 vm2.password = '625735'
@@ -8,7 +8,7 @@ vm2.allowAnyHosts = true
 
 def vm3=[:]
 vm3.name = 'vm3sv'
-vm3.host = '192.168.86.102'
+vm3.host = '192.168.56.102'
 vm3.user = 'theerapat'
 vm3.port = 22
 vm3.password = '625735'
